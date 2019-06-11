@@ -1,8 +1,20 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search>
-  <entry>
-    <title><![CDATA[hello hexo]]></title>
-    <url>%2F2018%2F04%2F22%2Fhello-hexo%2F</url>
-    <content type="text"><![CDATA[Love you three thouand.]]></content>
-  </entry>
+<search> 
+  
+  
+    
+    <entry>
+      <title>hello hexo</title>
+      <link href="/2018/04/22/hello-hexo/"/>
+      <url>/2018/04/22/hello-hexo/</url>
+      
+        <content type="html"><![CDATA[<center>Love you three thouand.<center></center></center>]]></content>
+      
+      
+      
+    </entry>
+    
+    
+  
+  
 </search>
